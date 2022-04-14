@@ -1,4 +1,4 @@
-package _04_builder;
+package CreationalPatterns._04_builder;
 
 public class DetailPlan {
     private int day;

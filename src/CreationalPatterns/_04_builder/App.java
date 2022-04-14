@@ -1,4 +1,4 @@
-package _04_builder;
+package CreationalPatterns._04_builder;
 
 public class App {
     public static void main(String[] args) {
